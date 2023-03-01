@@ -1,0 +1,1 @@
+/bin/sh -c cd /home/vadimbu/Git/maven-hello-world/my-app && /usr/lib/jvm/java-8-openjdk-amd64/jre/../bin/javac @/home/vadimbu/Git/maven-hello-world/my-app/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler35028734261024953arguments

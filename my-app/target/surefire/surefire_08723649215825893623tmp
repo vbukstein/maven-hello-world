@@ -1,0 +1,5 @@
+#surefire_0
+#Mon Aug 22 14:18:21 IDT 2022
+basedir=/home/vadimbu/Git/maven-hello-world/my-app
+user.dir=/home/vadimbu/Git/maven-hello-world/my-app
+localRepository=/home/vadimbu/.m2/repository

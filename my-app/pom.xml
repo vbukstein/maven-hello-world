@@ -32,7 +32,7 @@
     </dependency>
     <dependency>
         <groupId>org.checkerframework</groupId>
-        <artifactId>jdk8</artifactId>
+		<artifactId>checker</artifactId>
         <version>1.9.4</version>
     </dependency>
   </dependencies>
